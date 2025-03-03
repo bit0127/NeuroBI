@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+.chalice/deployments/
+.chalice/venv/
+.vscode/
+.chalice/config.json
+.chalice/deployments
